@@ -18,3 +18,5 @@ It takes basic shit that normal people can look at their engine and measure and 
 It should work for either the 36-1 or 60-2 or M02 / M12 type choices in Autronic. It def won't work with tooth counts vs cylinder vs stroke configs that result in fractional outputs. If you get shit like "4.5 teeth" obviously that's not gonna work, since DIVIDER OFFSET is a whole tooth count. You'll want to override up/down a tooth.  I have no idea if all the permutations work, it might very well miscalculate if you have a 2-stroke 3-cylinder Saab Sonnett with a 78-4 tooth count trigger and the sync occurring at 341 degrees.  But.... that brings us to... 
 
 Disclaimer time: It might be buggy. It might assplode your enginemotors. If it doesn't work or you have other problems, I barely know anything about Autronic except that I hate the vocabulary and documentation with the red hot fire of 1000 suns, so, don't ask me for help. 
+
+But I do hope it helps somebody. 
