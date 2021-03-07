@@ -7,7 +7,7 @@ For anyone unlucky (or stupid) enough to have to setup an old Autronic SM4 ECU f
 2. Have someone else shoot you in the face
 3. Leap in front of a speeding mass-transit vehicle
 3. Hunt down some rare internetzpersonz who have been around long enough to have known and understoond Autronic triggers, and yet still are not so aged as to have forgotten everything about it, and, were not driven insane in the process... Then beg them to understand your situation and tell you what to put into the impossibly arcane user interface. 
-4. Attempt to actually read THE DICK's documentation in the software and manual explaining what the vocabulary in the software means, and how to get from easy to understand real-world parameters like "how many teeth is it from TDC1 to the gap?" and "where does my sync trigger occur?" to the hideous and moronic "CYLINDER INPUT LEAD" and "DIVIDER OFFSET" in the hideously stupid user interface (Funfact "I/P is for "IN PUTS" and "O/P" is for "OUT PUTS"!  Who knew Australians spelled INPUT and OUTPUT as 2 words!?
+4. Attempt to actually read THE DICK's documentation in the software and manual explaining what the vocabulary in the software means, and how to get from easy to understand real-world parameters like "how many teeth is it from TDC1 to the gap?" and "where does my sync trigger occur?" to the hideous and moronic "CYLINDER INPUT LEAD" and "DIVIDER OFFSET" in the hideously stupid user interface (Funfact "I/P is for "IN PUTS" and "O/P" is for "OUT PUTS"!  Who knew Australians spelled INPUT and OUTPUT as 2 words!?)
 
 Anyway.  
 
